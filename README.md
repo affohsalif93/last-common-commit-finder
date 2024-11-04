@@ -1,0 +1,1 @@
+# teamcity-last-commit-finder
